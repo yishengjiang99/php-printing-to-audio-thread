@@ -1,0 +1,24 @@
+{
+  "name": "php-printing-to-audio-thread",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ssmainline.php",
+  "dependencies": {
+    "sf2-sql": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "postInstall": "node postinstall.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yishengjiang99/php-printing-to-audio-thread.git"
+  },
+  "keywords": [],
+  "author": "Yisheng Jiang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yishengjiang99/php-printing-to-audio-thread/issues"
+  },
+  "homepage": "https://github.com/yishengjiang99/php-printing-to-audio-thread#readme"
+}
